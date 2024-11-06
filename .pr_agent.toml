@@ -2,3 +2,6 @@
 model = "gpt-4o-mini-2024-07-18"
 model_turbo = "gpt-4o-mini-2024-07-18"
 fallback_models = ["gpt-4o-mini-2024-07-18", "gpt-4o-mini"]
+
+[pr_description]
+generate_ai_title=true
